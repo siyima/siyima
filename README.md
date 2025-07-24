@@ -69,7 +69,7 @@ A logic-based implementation of the classic nonogram puzzle game **Picross**, bu
 
 - 📧 Email: [siyima00@gmail.com](mailto:siyima00@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/siyima](https://www.linkedin.com/in/si-yi-m-04600211b/)  
-- 💻 GitHub: [github.com/yourusername](https://github.com/siyima)
+- 💻 GitHub: [github.com/siyima](https://github.com/siyima)
 
 <!--
 **siyima/siyima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
