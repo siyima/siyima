@@ -18,8 +18,8 @@ Currently, I am seeking entry-level or internship opportunities in software deve
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C, C++, Microsoft Office, MATLAB, Blender, NLP, LLM, ML, AI
-**AI & APIs:** Integrating API, Speech-to-Text, Text-to-Speech  
+- **Languages:** Python, C, C++, Microsoft Office, MATLAB, Blender, NLP, LLM, ML, AI
+- **AI & APIs:** Integrating API, Speech-to-Text, Text-to-Speech  
 
 ---
 
