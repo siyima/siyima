@@ -27,28 +27,20 @@ Currently, I am seeking entry-level or internship opportunities in software deve
 
 ### 💬 InterviewIQ
 A web-based mock interview tool using NLP and AI to simulate real-time interviews. Integrates llama3 for question-response generation and APIs for voice input/output capabilities.  
-[🔗 View on GitHub](https://github.com/yourusername/ai-interview-simulator)
+🔗 [View on GitHub](https://github.com/siyima/CS194)
 
 ---
 
 ### 🧠 AI-Driven Fashion Cataloging 
 Developed a multimodal deep learning system to convert fashion product images into accurate, descriptive text using **cogVLM** and **RoBERTa**. Fine-tuned a visual-language model on Fashionpedia dataset to extract attributes like pattern, sleeve-length, and neckline with over **10% improvement** in accuracy.  
 
-📄 [Read the Full Report (PDF)](./CS224N%20Final%20Report.pdf)
+📄 [View on GitHub](https://github.com/siyima/CS224N)
 
 ### 🧩 Logic Programming Picross Game
 
 A logic-based implementation of the classic nonogram puzzle game **Picross**, built using Stanford's **Epilog logic engine** and JavaScript. The logic rules define win/loss conditions, mistake limits, and visual interactions using declarative constraints.
 
-🧠 Features:
-- Fully playable in-browser logic puzzle
-- Dynamic cell-based grid with interactive constraints
-- Assisted and hint modes via logical inferences
-- Integrates HTML, JavaScript, and logic rules (Epilog DSL)
-
-📄 Technologies: HTML, JavaScript, Epilog (logic programming), Logic Programming
-
-💻 [View Code on GitHub](https://github.com/siyima/LogicProgramming/tree/main)
+💻 [View Code on GitHub](https://github.com/siyima/LogicProgramming)
 
 ---
 
