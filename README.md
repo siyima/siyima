@@ -46,10 +46,9 @@ A logic-based implementation of the classic nonogram puzzle game **Picross**, bu
 - Assisted and hint modes via logical inferences
 - Integrates HTML, JavaScript, and logic rules (Epilog DSL)
 
-📄 Technologies: HTML, JavaScript, Epilog (logic programming), HRF
+📄 Technologies: HTML, JavaScript, Epilog (logic programming), Logic Programming
 
-🕹️ [Try the Game (Live Demo)](https://yourusername.github.io/picross-game)  
-💻 [View Code on GitHub](https://github.com/yourusername/picross-game)
+💻 [View Code on GitHub](https://github.com/siyima/LogicProgramming/tree/main)
 
 ---
 
