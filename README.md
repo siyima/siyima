@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm SiYi Ma
 
 
-🎓 Recent Computer Science graduate | 🏸 Squash Coach | 🌏 International perspective  
+🎓 Recent Computer Science graduate | Part Time Squash Coach | 🌏 International perspective  
 💡 Exploring AI, Full Stack Development, and all things tech that solve real-world problems.  
 Currently based in **Los Angeles**, originally from a small town in **Malaysia** 🇲🇾.
 
